@@ -10,9 +10,9 @@
 
 ## **[Lesson 2] OddOccurrencesInArray**
 
-https://user-images.githubusercontent.com/17896651/117677541-21eefb00-b1e1-11eb-86cc-a0c1e3a7cb32.mp4
+https://user-images.githubusercontent.com/17896651/117680333-a5a9e700-b1e3-11eb-9119-720a0e59d4ea.mp4
 
 <!-- - Screen recording during test
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-https://user-images.githubusercontent.com/17896651/117677541-21eefb00-b1e1-11eb-86cc-a0c1e3a7cb32.mp4 -->
+https://user-images.githubusercontent.com/17896651/117680333-a5a9e700-b1e3-11eb-9119-720a0e59d4ea.mp4 -->
